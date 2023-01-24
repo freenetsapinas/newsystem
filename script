@@ -2,10 +2,10 @@
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Database Details
-dbhost='184.168.112.214';
-dbuser='zoeycorp_user';
-dbpass='sG*}o3G%THhy';
-dbname='zoeycorp_zoey-vpn';
+dbhost='184.168.108.252';
+dbuser='zoeynew-user';
+dbpass='na%L&Y~[.5oS';
+dbname='zoey-new';
 dbport='3306';
 dbport='3306';
 RED='\033[01;31m';
